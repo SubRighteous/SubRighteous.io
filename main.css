@@ -18,7 +18,7 @@ body {
 /* Top NAVIGATION */
 
 nav {
-  background-color: #FFF;
+  background-color: #AAA;
       
 }
 nav a {
@@ -50,7 +50,7 @@ div.aboutmephoto{
     background-image: url("http://content.iwastesomuchtime.com/2132015192088.gif");
     background-position: center left;
     background-size: auto;
-    padding: 100px 0;
+    padding: 75px 0;
 	margin: 30px;
 }
 div.frontpagebackground{
