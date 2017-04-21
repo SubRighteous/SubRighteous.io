@@ -45,11 +45,13 @@ h1 {
 h2 {
     font-size: 58px;
 }
-
+#otterfucker{
+    border: 3px solid #000;
+    margin: 15px;
+}
 div.aboutmetext{
     text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
-      
     border: 1px solid #000;
     text-align: right;
     padding : 30px;
