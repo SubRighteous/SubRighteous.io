@@ -8,7 +8,7 @@ body {
 h1 {
 	font-size: 32px;
 }
-.FrontPageBackground{
+.frontpagebackground{
     background-image: image("assets/images/DSC_0010.png");
     background-position: center;
     background-size: cover;
