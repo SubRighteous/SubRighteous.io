@@ -18,7 +18,7 @@ body {
 /* Top NAVIGATION */
 
 nav {
-  background-color: #FFF;
+  background-color: #CCC;
 }
 
 nav li {
@@ -37,11 +37,7 @@ h1 {
 h2 {
     font-size: 58px;
 }
-div.navText{
-  font-family: 'Trebuchet MS', 'Helvetica';
-  text-shadow: 0 2px #000000;  
-  margin: 30px;
-}
+
 
 div.frontpagebackground{
     background-image: url("http://wallpapercave.com/wp/avXzGPy.jpg");
