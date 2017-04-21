@@ -43,14 +43,15 @@ h2 {
 div.aboutmephoto{
     background-image: url("http://content.iwastesomuchtime.com/2132015192088.gif");
     background-position: center left;
-    background-size: contain;
+    background-size: auto;
     padding: 100px 0;
 	margin: 30px;
 }
 div.frontpagebackground{
     background-image: url("http://wallpapercave.com/wp/avXzGPy.jpg");
     background-position: center;
-    background-size: contain;
+    background-size: auto;
+   
     padding: 150px 0;
 	margin: 30px;
 	text-shadow: 0 2px #000000;
