@@ -1,10 +1,23 @@
 body {
-	font-family: Georgia, serif;
+	font-family: "Times New Roman", Georgia, serif;
 	height: 100%;
-	margin: 0;
+ 	margin: 0;
 	text-align: center;
 	width: 100%;
 }
 h1 {
 	font-size: 32px;
+}
+.FrontPageBackground{
+    background-image: image("assets/images/DSC_0010.png");
+    background-position: center;
+    background-size: cover;
+    padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+#footer{
+    color: darkseagreen;
+    font-size: 16px;
 }
