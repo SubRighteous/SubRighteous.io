@@ -25,6 +25,7 @@ nav li {
   margin: 0;
   padding: 0 10px;
   display : inline;
+  font-family: 'Trebuchet MS', 'Helvetica';
 }
 
 nav ul {
@@ -49,6 +50,8 @@ div.frontpagebackground{
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 #footer{
+    margin: 15px;
+    background-color: #CCC;
     color: darkseagreen;
     font-size: 16px;
 }
