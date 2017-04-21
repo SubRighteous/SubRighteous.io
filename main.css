@@ -50,8 +50,8 @@ div.aboutmephoto{
 div.frontpagebackground{
     background-image: url("http://wallpapercave.com/wp/avXzGPy.jpg");
     background-position: center;
-    background-size: auto;
-    padding: 50px 0;
+    background-size: contain;
+    padding: 150px 0;
 	margin: 10px;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
