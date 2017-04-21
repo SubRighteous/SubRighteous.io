@@ -8,8 +8,11 @@ body {
 h1 {
 	font-size: 32px;
 }
-.frontpagebackground{
-    background-image: image("assets/images/DSC_0010.png");
+h2 {
+    font-size: 58px;
+}
+div.frontpagebackground{
+    background-image: url("http://i.imgur.com/lDyjFmA.png");
     background-position: center;
     background-size: cover;
     padding: 250px 0;
