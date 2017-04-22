@@ -49,6 +49,7 @@ h2 {
 #otterfucker{
     width: 450;
     height: 270;
+    display: inline;
     border: 1px solid #000;
     padding : 15px;
     margin: 30px;
@@ -67,6 +68,7 @@ div.aboutmetext{
    
     width: 960;
     height: 540;
+    display: grid;
     border: 1px solid #000;
     padding: 10px 0;
 	margin: 10px;
