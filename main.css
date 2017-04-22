@@ -63,15 +63,14 @@ div.aboutmetext{
     
     display: inline-block;
 }
-div.frontpagebackground{
-    background-image: url("http://wallpapercave.com/wp/avXzGPy.jpg");
-    background-position: center;
-    background-size: auto;
+#frontpagebackground{
    
-    padding: 150px 0;
-	margin: 30px;
-	text-shadow: 0 2px #000000;
-	font-family: 'Trebuchet MS', 'Helvetica';
+    width: 960;
+    height: 540;
+    border: 1px solid #000;
+    padding: 10px 0;
+	margin: 10px;
+	
 }
 #footer{
     margin: 30px;
