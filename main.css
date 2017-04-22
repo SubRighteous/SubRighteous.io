@@ -26,6 +26,7 @@ nav a {
   line-height: 60px;
   color: #204156;
   text-decoration: none;
+  text-align: center;
 }
 
 nav li {
@@ -73,8 +74,8 @@ div.frontpagebackground{
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 #footer{
-    margin: 15px;
-   
+    margin: 30px;
+    
     color: darkseagreen;
     font-size: 16px;
 }
