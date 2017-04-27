@@ -11,7 +11,7 @@ body {
 	font-family: "Times New Roman", Georgia, serif;
 	height: 100%;
  	margin: 0;
-	text-align: center top;
+	text-align: center;
 	width: 100%;
 }
 
@@ -57,7 +57,7 @@ div.aboutmetext{
     font-size: 12px;
 	font-family: 'Trebuchet MS', 'Helvetica';
     border: 1px solid #000;
-    text-align:  top right;
+    text-align:  center;
     padding : 30px;
 	margin: 30px;
     
