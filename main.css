@@ -65,8 +65,8 @@ div.aboutmetext{
 }
 #frontpagebackground{
    
-   
-    display: grid;
+   text-align: center;
+    display: inline-flex;
     
     border: 1px solid #000;
     padding: 11px 0;
