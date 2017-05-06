@@ -6,6 +6,11 @@ html, body {
   font-weight: 300;
   line-height: 1.5;
 }
+ 
+#main{
+    max-width: 600px;
+    margin: 0 auto;
+}
 
 body {
 	font-family: "Times New Roman", Georgia, serif;
@@ -65,7 +70,7 @@ div.aboutmetext{
 }
 #frontpagebackground{
    
-   text-align: center;
+    text-align: center;
     display: inline-flex;
     
     border: 1px solid #000;
@@ -74,6 +79,7 @@ div.aboutmetext{
 	
 }
 #footer{
+    position: fixed;
     margin: 30px;
     
     color: darkseagreen;
