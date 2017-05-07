@@ -752,6 +752,7 @@
 		position: relative;
 		overflow: hidden;
 		min-height: 37em;
+        background-color: #353638;
 	}
 
 		@media screen and (max-width: 980px) {
@@ -771,6 +772,7 @@
 
 			.gallery {
 				padding: 1em;
+                
 			}
 
 		}
@@ -790,6 +792,7 @@
 			-webkit-justify-content: space-between;
 			-ms-justify-content: space-between;
 			justify-content: space-between;
+            color: aliceblue;
 		}
 
 			.gallery header.special {
@@ -818,6 +821,7 @@
 		.gallery footer {
 			text-align: center;
 			margin-top: 4em;
+            background-color: #353638;
 		}
 
 		.gallery .content {
@@ -1595,7 +1599,8 @@
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background: #f2f2f2;
+		background: #353638;
+        color: aliceblue;
 	}
 
 		#footer .copyright {
