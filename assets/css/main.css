@@ -468,6 +468,7 @@
 	}
 
 		#contact form {
+            padding: 4em 0 2em 0;
 			margin: 0;
 		}
 
@@ -1394,7 +1395,7 @@
 /* Menu */
 
 	#nav {
-		background: #0d1217;
+		background: #585d63;
 		z-index: 10002;
 		position: relative;
 		width: 4em;
@@ -1469,7 +1470,7 @@
 		height: 75vh;
 		position: relative;
 		background: #000;
-		background-image: url(../../images/DSC_0010.png)
+		background-image: url(../../images/DSC_0004.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
@@ -1604,6 +1605,10 @@
 			padding: 0 1em;
 			text-align: center;
 		}
+        #footer .column.social{
+            text-align: right;
+        }
+        
 
 		@media screen and (max-width: 736px) {
 
