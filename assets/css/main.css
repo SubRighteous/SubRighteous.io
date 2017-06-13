@@ -1534,7 +1534,7 @@
 .videobanner video{
 	/*object-fit: contain;*/
 /*       object-fit: fill; */
-      object-fit: cover;
+      object-fit: fill;
       width:100%;
       height:100%;
 }
