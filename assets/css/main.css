@@ -1731,6 +1731,13 @@ video::-webkit-media-controls {
 			padding: 0 1em;
 			text-align: center;
 		}
+	#footer .copyright .column.social{
+		list-style: disc;
+		margin: 0 0 3em 0;
+        	margin-left: 4em;
+        	margin-right: 40em;
+		padding-left: 1em;
+	}
         #footer .column.social{
             text-align: center;
         }
