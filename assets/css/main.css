@@ -1650,6 +1650,7 @@ video::-webkit-media-controls {
 		#banner p {
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
+			color: #1e1e1e;
 		}
 
 		#banner a {
